@@ -1,0 +1,9 @@
+{
+    "brute_force_suspects": [
+        {
+            "ip": "10.0.0.42",
+            "failed_attempts": 6
+        }
+    ],
+    "ddos_or_scraper_suspects": []
+}
